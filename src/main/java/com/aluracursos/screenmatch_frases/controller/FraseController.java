@@ -1,4 +1,4 @@
-package com.aluracursos.screenmatchfrases;
+package com.aluracursos.screenmatch_frases.controller;
 
 import com.aluracursos.screenmatch_frases.dto.FraseDTO;
 import com.aluracursos.screenmatch_frases.service.FraseService;
